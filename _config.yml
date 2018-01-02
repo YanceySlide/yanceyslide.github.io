@@ -1,2 +1,3 @@
   name: Mike Johnson, CISO
   markdown: kramdown
+  permalink: /blog/:year/:month/:day/:title
